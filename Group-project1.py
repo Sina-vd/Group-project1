@@ -16,3 +16,4 @@ def average(lst):
 
 print(average([1, 2, 3, 4]))
 # test 2
+#assfj
