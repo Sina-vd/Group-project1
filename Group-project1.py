@@ -12,4 +12,4 @@ def average(lst):
     return sum_numbers(lst) / len(lst)
 
 print(average([1,2,3,4]))
-
+rtg
